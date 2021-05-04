@@ -1,0 +1,2 @@
+# gotrade
+Trade Bot GoLang
